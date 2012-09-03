@@ -1,0 +1,6 @@
+name: RadioHeadLazerShow
+main: com.chrischurchwell.radioheadlazershow.RadioheadLazerShow
+version: ${version}
+description: Test SpoutPlugin's Particle API
+author: Chris Churchwell (thedudeguy)
+depend: [Spout]
